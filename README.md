@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Iniciar o projeto
@@ -53,7 +52,3 @@ Foi criado uma aplicação para armazenar projetos e suas tarefas do zero utiliz
 
 `POST /projects/:id/tasks`: 
   - Adiciona um nome para task do projeto
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
