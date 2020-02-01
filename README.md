@@ -16,24 +16,20 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafio-01?style=social">
-  </a>
 </p>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <!-- <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
   <a href="#memo-licença">Licença</a>
 </p>
 
----
 ## Iniciar o projeto
 
 Para iniciar o projeto basta clonar o repositório 
 
-```git@github.com:ocarlic/bootcamp-gostack-desafio-01.git```
+```
+git@github.com:ocarlic/bootcamp-gostack-desafio-01.git
+```
 
 Em seguida entrar no diretório clonado e executar `yarn install` e depois `yarn dev` para executar a aplicação.
 
@@ -61,7 +57,3 @@ Foi criado uma aplicação para armazenar projetos e suas tarefas do zero utiliz
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥
